@@ -1,7 +1,15 @@
 # 👋 Hi, I’m Vijay K S
 - 👀 I’m interested in the UNIVERSE
 - 🌱 I’m currently learning Deep Learning
-- 📫 Reach me here - ksvijay2005@gmail.com
+
+#### 🔭 I’m currently working on:
+- A Python package for bias detection in ML models and datasets
+
+#### 📫 Reach me here: 
+- Mail: ksvijay2005@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vj-ks)
+
+#### 🌐 Portfolio: [Vijay-KS](https://vjks-portfolio.vercel.app)
 
 > Somewhere, something incredible is waiting to be known.
 
