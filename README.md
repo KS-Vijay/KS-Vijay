@@ -8,7 +8,8 @@
 #### 📫 Reach me here: 
 - Mail: ksvijay2005@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vj-ks)
-
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ksvijay2005@gmail.com)
+- 
 #### 🌐 Portfolio: [Vijay-KS](https://vjks-portfolio.vercel.app)
 
 > Somewhere, something incredible is waiting to be known.
